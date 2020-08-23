@@ -26,4 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
+```text
+YAML     14 hrs 43 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.74 % 
+Other    12 hrs 53 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.53 % 
+Python   9 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Bash     5 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+JSX      3 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+```
 <!--END_SECTION:waka-->
