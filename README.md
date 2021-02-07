@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML        19 hrs 16 mins  ███████████░░░░░░░░░░░░░░   44.34 % 
-Terraform   12 hrs 5 mins   ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Other       5 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Markdown    2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Bash        1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+YAML        16 hrs 57 mins  ██████████▓░░░░░░░░░░░░░░   42.87 % 
+Terraform   10 hrs 48 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.33 % 
+Other       3 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Markdown    2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Bash        2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 <!--END_SECTION:waka-->
 
