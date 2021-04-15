@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I <3 dumpsters
 
+For details, run:
+
+```
+curl cv.soulshake.net
+```
+
 ## Languages this week
 
 <!--START_SECTION:waka-->
