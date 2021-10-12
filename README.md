@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on [EphemeraSearch](https://www.ephemerasearch.com/)
+- 😍 I have an unhealthy obsession with `make`
 - 🌱 I’m currently learning BRAINS!
 - 👯 I’m looking to collaborate on [EphemeraSearch](https://www.ephemerasearch.com/)
 - 🤔 I’m looking for help with German
