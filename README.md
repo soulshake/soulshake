@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/08339702-a231-40c4-8838-d449bd2ff951.svg)](https://wakatime.com/@08339702-a231-40c4-8838-d449bd2ff951)
+
 <!--
 **soulshake/soulshake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [EphemeraSearch](https://www.ephemerasearch.com/)
 - 🌱 I’m currently learning BRAINS!
-- 👯 I’m looking to collaborate on EphemeraSearch
+- 👯 I’m looking to collaborate on [EphemeraSearch](https://www.ephemerasearch.com/)
 - 🤔 I’m looking for help with German
 - 💬 Ask me about old postcards, genealogy, hydroponics, lucid dreaming
 - 📫 How to reach me: [@s0ulshake](https://twitter.com/soulshake)
