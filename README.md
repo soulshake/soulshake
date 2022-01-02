@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on [EphemeraSearch](https://www.ephemerasearch.com/)
-- 😍 I have an unhealthy obsession with `make`
-- 🌱 I’m currently learning BRAINS!
+- 🔭 I work on [EphemeraSearch](https://www.ephemerasearch.com/)
+- 😍 I have an unhealthy obsession with GNU Make
+- :dna: I’m currently learning genomics at [Quantgene](https://www.quantgene.com/)
 - 👯 I’m looking to collaborate on [EphemeraSearch](https://www.ephemerasearch.com/)
 - 🤔 I’m looking for help with German
 - 💬 Ask me about old postcards, genealogy, hydroponics, lucid dreaming
