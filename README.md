@@ -37,12 +37,16 @@ curl cv.soulshake.net
 ## Languages this week
 
 <!--START_SECTION:waka-->
+
 ```text
-YAML        1 hr 2 mins     ███████████████▓░░░░░░░░░   63.04 % 
-Text        20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Terraform   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Python      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+YAML         3 hrs           ████████░░░░░░░░░░░░░░░░░   32.35 %
+Bash         1 hr 38 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Terraform    1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Go           50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Markdown     43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## Languages all time
