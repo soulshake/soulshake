@@ -39,8 +39,9 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```text
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-CSV    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     59 mins         ██████████████████████░░░   88.24 %
+Markdown   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
