@@ -39,7 +39,7 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other        15 hrs 22 mins  ████████████▒░░░░░░░░░░░░   49.56 %
 ```
 
 <!--END_SECTION:waka-->
