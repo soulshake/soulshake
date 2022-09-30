@@ -39,11 +39,11 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 8 hrs 48 mins   ████████████▒░░░░░░░░░░░░   48.81 %
-Terraform                  2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Markdown                   1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Nginx configuration file   1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Other                      1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+TypeScript                 10 hrs 14 mins  ███████████▒░░░░░░░░░░░░░   45.87 %
+Markdown                   2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+YAML                       1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Go                         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Other                      1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
