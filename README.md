@@ -39,12 +39,12 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-Go           2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-YAML         2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Starlark     2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-JavaScript   1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Markdown     1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+JavaScript   5 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   24.03 %
+TypeScript   4 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Go           2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+YAML         2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Starlark     2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Terraform    2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
 ```
 
 <!--END_SECTION:waka-->
