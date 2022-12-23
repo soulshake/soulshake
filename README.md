@@ -39,12 +39,12 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       3 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.26 %
-Terraform                  3 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-Python                     2 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-JavaScript                 1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Docker                     1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Text                       1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+YAML                       4 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+JavaScript                 2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Python                     2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Starlark                   1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Docker                     1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Terraform                  1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 ```
 
 <!--END_SECTION:waka-->
