@@ -39,12 +39,12 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-JavaScript   3 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-YAML         2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Text         1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Starlark     1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-HTML         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Python       8 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   32.67 %
+JavaScript   3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+YAML         2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Text         2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Starlark     1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+HTML         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
