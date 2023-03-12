@@ -39,9 +39,9 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 42 mins  █████████████████████▓░░░   87.16 %
-Text         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JavaScript   29 hrs 21 mins  ██████████████████████▓░░   90.97 %
+Text         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Other        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
