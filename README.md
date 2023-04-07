@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [EphemeraSearch](https://www.ephemerasearch.com/)
 - 🤔 I’m looking for help with German
 - 💬 Ask me about old postcards, genealogy, hydroponics, lucid dreaming
-- 📫 How to reach me: [@s0ulshake](https://twitter.com/soulshake)
+- 📫 How to reach me: [@s0ulshake](https://twitter.com/s0ulshake)
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I <3 dumpsters
 
