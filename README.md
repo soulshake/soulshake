@@ -39,11 +39,11 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-Python         19 hrs 57 mins  ██████████████████░░░░░░░   71.87 %
-Terraform      2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Text           2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-JavaScript     1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-ActionScript   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Python         19 hrs 39 mins  █████████████████▒░░░░░░░   69.36 %
+Text           2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Terraform      2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+JavaScript     1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+ActionScript   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
