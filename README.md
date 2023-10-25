@@ -39,8 +39,9 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 51 mins    █████████████████▒░░░░░░░   69.12 %
-Text     50 mins         ███████▓░░░░░░░░░░░░░░░░░   30.88 %
+Python   46 mins         ████████████████████▒░░░░   80.87 %
+Text     10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Prolog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
