@@ -39,11 +39,11 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.36 %
-YAML         3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Starlark     3 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Docker       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Bash         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Python       5 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+Starlark     3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+YAML         3 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
+Docker       1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Bash         1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
