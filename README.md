@@ -39,8 +39,10 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-Text        19 mins         █████████████████████████   99.66 %
-gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+YAML        16 mins         █████████████▒░░░░░░░░░░░   53.33 %
+Text        14 mins         ███████████▓░░░░░░░░░░░░░   46.08 %
+i3config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
