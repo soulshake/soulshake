@@ -39,11 +39,11 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-jsonc        21 mins         ████████▓░░░░░░░░░░░░░░░░   34.66 %
-Text         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-systemd      7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-swayconfig   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-gitignore    4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+jsonc        21 mins         ████████▓░░░░░░░░░░░░░░░░   35.14 %
+systemd      7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+swayconfig   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+TypeScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+gitignore    4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
 ```
 
 <!--END_SECTION:waka-->
