@@ -39,11 +39,11 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    7 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-YAML         3 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-sh           3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Bash         3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-conf         2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Terraform    7 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+conf         3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+YAML         3 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Bash         2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+swayconfig   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
