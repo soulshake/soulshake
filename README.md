@@ -39,11 +39,11 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    12 hrs 1 min          ███████████▓░░░░░░░░░░░░░   47.29 %
-YAML         5 hrs 46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Text         1 hr 16 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Bash         1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-gitignore    1 hr 4 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Terraform    15 hrs 15 mins        ████████████▓░░░░░░░░░░░░   50.12 %
+YAML         5 hrs 57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Bash         1 hr 58 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Text         1 hr 23 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+gitignore    1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
