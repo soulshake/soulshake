@@ -39,11 +39,7 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         12 mins               ███████████████████▓░░░░░   79.32 %
-YAML         1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-sh           0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-JavaScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Markdown     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Text   25 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
