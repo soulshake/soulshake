@@ -39,9 +39,8 @@ curl cv.soulshake.net
 <!--START_SECTION:waka-->
 
 ```txt
-sshconfig   11 mins               ███████████████▒░░░░░░░░░   60.85 %
-Text        6 mins                █████████░░░░░░░░░░░░░░░░   36.31 %
-Python      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+sshconfig   11 mins               ████████████████████████░   95.53 %
+Python      0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
